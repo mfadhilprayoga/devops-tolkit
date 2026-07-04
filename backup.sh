@@ -1,1 +1,1 @@
-echo 'Menambah fitur backup'
+echo 'Memulai backup...'
